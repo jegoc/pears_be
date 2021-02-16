@@ -8,6 +8,6 @@ public class Welcome {
 	
 	@RequestMapping("/")
 	String welcome() {
-		return "Stay safe, #Covid!asdsdgdddddddddddfgdfad";
+		return "Stay safe, #Covid! lang malakas";
 	}
 }
